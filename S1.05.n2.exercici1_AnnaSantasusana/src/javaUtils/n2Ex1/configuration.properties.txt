@@ -1,0 +1,3 @@
+path = /Users/annasantasusanaberch/CosesVaries
+txtFilePath = /Users/annasantasusanaberch/Eclipse/eclipse-workspace/Curs_pont/S1.05.n2.exercici1_AnnaSantasusana/src/javaUtils/n2Ex1
+txtFileName = /result.txt

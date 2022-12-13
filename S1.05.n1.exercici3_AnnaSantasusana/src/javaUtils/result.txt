@@ -1,0 +1,8 @@
+   |---------> .DS_Store (F) - Last modified: 2022-12-10 13:30:07
+Altres (D) - Last modified: 2022-12-08 01:16:17
+   |---------> .DS_Store (F) - Last modified: 2022-12-08 01:15:47
+   |---------> Anglès.txt (F) - Last modified: 2022-12-08 01:15:02
+   |---------> Piscina.txt (F) - Last modified: 2022-12-08 01:16:06
+   |---------> Lloguer.txt (F) - Last modified: 2022-12-08 01:14:32
+   |---------> Noms.txt (F) - Last modified: 2022-12-10 14:35:25
+   |---------> Països.txt (F) - Last modified: 2022-11-29 11:59:52
